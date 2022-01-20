@@ -1,0 +1,240 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/mccade/
+	..
+1640551509
+'b
+	/home/mccade/bin/
+	..
+1640551509
+'h
+	/home/mccade/
+	..
+1640551509
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/mccade
+	..
+0
+d/home
+	mccade
+1
+d/
+	mnt
+8
+d/mnt
+	c
+1
+d/mnt/c
+	Users
+13
+d/mnt/c/Users
+	McCade
+4
+d/mnt/c/Users/McCade
+	Desktop
+6
+d/mnt/c/Users/McCade/Desktop
+	nvim
+4
+d/mnt/c/Users/McCade/Desktop/nvim
+	..
+0
+d/mnt/c/Users/McCade/Desktop
+	nvim
+4
+d/mnt/c/Users/McCade
+	Desktop
+6
+d/mnt/c/Users
+	McCade
+4
+d/mnt/c
+	Users
+13
+d/mnt
+	c
+1
+d/
+	home
+4
+d/home
+	mccade
+1
+d/home/mccade
+	python
+1
+d/home/mccade/python
+	helloworld.py
+1
+d/home/mccade
+	python
+1
+d/home
+	mccade
+1
+d/
+	mnt
+11
+d/mnt
+	c
+1
+d/mnt/c
+	Users
+13
+d/mnt/c/Users
+	McCade
+4
+d/mnt/c/Users/McCade
+	Desktop
+6
+d/mnt/c/Users/McCade/Desktop
+	..
+0
+d/mnt/c/Users/McCade
+	Desktop
+6
+d/mnt/c/Users
+	McCade
+4
+d/mnt/c
+	Users
+14
+d/mnt
+	c
+1
+d/
+	home
+4
+d/home
+	mccade
+1
+d/home/mccade
+	python
+1
+d/home/mccade/python
+	vba
+1
+d/home/mccade/python/vba
+	testvba.xlsm
+1
+d/home/mccade/python
+	vba
+1
+d/home/mccade
+	python
+1
+d/home
+	mccade
+1
+d/
+	home
+4
+d/home
+	mccade
+1
+d/home/mccade
+	python
+1
+d/home/mccade/python
+	9RoundVolumeController
+1
+d/home/mccade/python/9RoundVolumeController
+	makeGraph.py
+12
+d/home/mccade/python
+	test
+4
+d/home/mccade/python/test
+	
+4
+d/home/mccade/python
+	learningpython
+2
+d/home/mccade
+	python
+1
+d/home
+	mccade
+1
+d
+
+# Right window history (oldest to newest):
+D/home/mccade
+	python
+1
+D/home/mccade/python
+	helloworld.py
+3
+D/home/mccade
+	python
+1
+D/home
+	mccade
+1
+D/
+	home
+4
+D/home
+	mccade
+1
+D/home/mccade
+	python
+1
+D/home/mccade/python
+	dog.jpg
+2
+D/home/mccade
+	python
+1
+D/home
+	mccade
+1
+D/
+	snap
+17
+D
+
+# Command line history (oldest to newest):
+:w
+:touch testvba.xlsm
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+p.zshrc
+pliterallyanything.py
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/mnt/c/Users/McCade/Desktop/zshrc
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
