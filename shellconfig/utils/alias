@@ -1,0 +1,3 @@
+#!/bin/bash
+alias ls='ls -hNa --color=auto --group-directories-first'
+alias python3.exe='powershell.exe -Command python3.exe'
